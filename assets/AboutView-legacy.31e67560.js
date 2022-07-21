@@ -1,0 +1,1 @@
+System.register(["./index-legacy.3b22a931.js"],(function(t){"use strict";var n;return{setters:[function(t){n=t.n}],execute:function(){t("default",n({},(function(){return this._self._c,this._m(0)}),[function(){var t=this._self._c;return t("div",{staticClass:"about"},[t("h1",[this._v("This is an about page")])])}],!1,null,null,null,null).exports)}}}));
